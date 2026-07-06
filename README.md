@@ -1,0 +1,2 @@
+# 01bb440e60967cac-academia-data-visualization-an
+Built for academia professionals who are tired of spending hours building a system before you can actually use it.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Academia Data Visualization And Reporting — fully con
